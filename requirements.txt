@@ -1,0 +1,4 @@
+elasticsearch
+requests_aws4auth
+jsons
+aws_log_parser # https://pypi.org/project/aws-log-parser/
