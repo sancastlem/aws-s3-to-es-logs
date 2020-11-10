@@ -52,4 +52,8 @@ Setup the notification from S3, with ObjectCreated event type.
 
 Make sure that your role have access to bucket S3, Cloudwatch for logging the launch and ES Service, and your lambda function has the permissions to launch the function.
 
+### Runtime
+
+Python 3.8.
+
 6. Deploy, break and fun!
